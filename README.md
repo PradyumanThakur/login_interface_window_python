@@ -4,9 +4,9 @@ Login Interface Window
 
 ### Functionality
 
-Markup : * Default user is added with following Login credentials:
-			* email- johndoe1970@test.com
-	 		* password- test
+Default user is added with following Login credentials:
+* email- johndoe1970@test.com
+* password- test
 
 
 		 * You can add multiple users by signing up.
